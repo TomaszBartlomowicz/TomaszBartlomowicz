@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 Electronics Engineer, Embedded Software enthusiast.
 
